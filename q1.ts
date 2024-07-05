@@ -43,3 +43,5 @@ console.log(buyItem(hero1, shop1));
 console.log(buyItem(hero2, shop2));
 
 module.exports = buyItem;
+
+//660610743 ขุนศึกไท บัวไชโย
